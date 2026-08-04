@@ -55,8 +55,8 @@ That's it.
 
 ## Contributors
 
-- Loveday (JavaScript, project lead)
-- [Game Dev Guy Name] (Python backend)
+- Loveday(Happylove32c) (JavaScript, project lead)
+- VoidNitro12 (Python backend)
 
 ---
 
