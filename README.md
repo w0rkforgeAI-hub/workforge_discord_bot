@@ -46,10 +46,10 @@ That's it.
 
 ## Getting Started
 
-1. Clone repo
-2. Install deps: `pip install discord.py` (Python) + `npm install discord.js` (JS)
-3. Create `.env` with Discord token
-4. Push commits to respective branches
+[] 1. Clone repo
+[] 2. Install deps: `pip install discord.py` (Python) + `npm install discord.js` (JS)
+[done] 3. Create `.env` with Discord token
+[] 4. Push commits to respective branches
 
 ---
 
