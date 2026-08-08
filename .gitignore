@@ -1,5 +1,9 @@
 
 # Env files
 .env
+
+# Git files
 .gitignore
+
+# Node.js files
 .node_modules
